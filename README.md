@@ -10,7 +10,7 @@ Screenshots: Doc file
 Images: http://www.kitesurfwallpaper.com/
 Language : Swift, objective-c header file
 
-# KITGURU - inleiding
+# KITGURU 
 KITEGURU is een persoonlijke advies gever. Deze op IOS gebaseerde applicatie zal het bepalen van kiten voor iedereen vermakkelijken. De gebruiker zal eerst zijn gear plus gewicht moeten toevoegen:, wetsuits, kites, boots, hood en gloves plus het eigen gewicht. Bij het persoonlijke account wordt "the gear meter" weer gegeven. Deze view schept een beeld wat voor gear er nodig is bij bepaalde water temperatuur. Nadat de gebruiker deze dingen heeft ingevuld, zal de gebruiker de mogelijkheid krijgen om een plaats in de wereld op te zoeken. Waanneer deze zoekactie voltooid is, wordt de opgezochtes plaats vertoond op een map en de weersverwachtingen bij die plaats komen dan ook in beeld. Hierna kan de gebruiker een persoonlijk advies van KITEGURU krijgen op basis van zijn ingevoerde input voor het programma. De gebruiker is daarna in staat om een mail met deze gegeven door te sturen naar wie die wil.
 
 
