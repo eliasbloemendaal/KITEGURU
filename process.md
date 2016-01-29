@@ -3,13 +3,13 @@ Day 1
 - Verschillende idee‘n bedacht.
 
 Day 2
--Proposal geschreven na overleg met wouter
+- Proposal geschreven na overleg met wouter
 - Visualisatie gegeven van hoe mij app er ongeveer uit komt te zien
 
 Day 3
-laptop gekocht en alles opnieuw geinstalleerd.
-nagedacht over het design document en heb het geprobeerd te maken maar was niet heel duidelijk voor mij zelf, er werd een mij een tip gegeven om het op vrijdag te maken.
-filmpjes gekeken wat een API nou precies is en een beetje hoe je het moet gebruiken.
+- laptop gekocht en alles opnieuw geinstalleerd.
+- nagedacht over het design document en heb het geprobeerd te maken maar was niet heel duidelijk voor mij zelf, er werd een mij een tip gegeven om het op vrijdag te maken.
+- filmpjes gekeken wat een API nou precies is en een beetje hoe je het moet gebruiken.
 
 Day 4
 -API van Wheaterrr site gevraagd of ik een api key mocht hebben onder anderen bij MGS MagicSeaWeed, geen antwoord gekregen   uiteindelijk een site gevonden waar het makkelijk was om een API te krijgen.
